@@ -98,13 +98,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Avinash Releases Nexus Repository</name>
+	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://18.216.201.210:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Avinash Snapshot Nexus Repository </name>
+	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://18.216.201.210:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
